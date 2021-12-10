@@ -4,7 +4,7 @@ slice
 splice
 findIndex
 find
-map
+map https://github.com/Gayane25/lesson009_Arrays_Methods/blob/master/myMap.js
 filter
 every
 some
