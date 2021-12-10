@@ -7,6 +7,7 @@ slice()
 splice()
 findIndex()
 find()
+https://github.com/Gayane25/lesson009_Arrays_Methods/blob/master/findMethod.js
 
 map ()
 https://github.com/Gayane25/lesson009_Arrays_Methods/blob/master/myMap.js
