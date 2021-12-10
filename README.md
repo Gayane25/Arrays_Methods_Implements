@@ -24,3 +24,9 @@ https://github.com/Gayane25/lesson009_Arrays_Methods/blob/master/checkSome.js
 reduce() not solved
 slice() not solved
 splice() not solved
+
+Task 1
+Concatenate the two arrays
+const arr1 = [1, 2, 3, 4];
+const arr2 = [5, 6, 7, 8, 9];
+https://github.com/Gayane25/lesson009_Arrays_Methods/blob/master/1.concat.js
