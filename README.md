@@ -39,3 +39,10 @@ Task 3
 How to pass arguments in sum function?
 https://github.com/Gayane25/lesson009_Arrays_Methods/blob/master/3.destructuring.js
 
+Task 4
+Swapping Values using the Destructuring Assignment.
+let a = 3;
+let b = 6;
+console.log(a); //6
+console.log(b); //3
+https://github.com/Gayane25/lesson009_Arrays_Methods/blob/master/4.swapping.js
