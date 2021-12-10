@@ -34,3 +34,7 @@ https://github.com/Gayane25/lesson009_Arrays_Methods/blob/master/1.concat.js
 Task 2
 How to take arguments in sum function?
 https://github.com/Gayane25/lesson009_Arrays_Methods/blob/master/2.argument.js
+
+Task 3
+How to pass arguments in sum function?
+https://github.com/Gayane25/lesson009_Arrays_Methods/blob/master/3.destructuring.js
