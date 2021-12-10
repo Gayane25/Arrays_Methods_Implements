@@ -51,8 +51,8 @@ Task 6
 Given an array, return a new array that only includes the numbers.
 
 ```javascript
-const arr = [1, 2, 'a', true, {}, undefined, 55, false, 'hi', null,
-166, NaN]
+const arr = [1, 2, 'a', true, {}, undefined, 55, false, 'hi', null, 166, NaN];
 // [1, 2, 55, 166];
-https://github.com/Gayane25/lesson009_Arrays_Methods/blob/master/6.FilterMethod.js
 ```
+
+https://github.com/Gayane25/lesson009_Arrays_Methods/blob/master/6.FilterMethod.js
