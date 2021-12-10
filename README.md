@@ -3,10 +3,9 @@ Implement these array methods
 forEach()
 https://github.com/Gayane25/lesson009_Arrays_Methods/blob/master/forEach.js
 
-slice()
-splice()
 findIndex()
 https://github.com/Gayane25/lesson009_Arrays_Methods/blob/master/findIndex.js
+
 find()
 https://github.com/Gayane25/lesson009_Arrays_Methods/blob/master/findMethod.js
 
@@ -22,4 +21,6 @@ https://github.com/Gayane25/lesson009_Arrays_Methods/blob/master/checkEvery.js
 some()
 https://github.com/Gayane25/lesson009_Arrays_Methods/blob/master/checkSome.js
 
-reduce()
+reduce() not solved
+slice() not solved
+splice() not solved
