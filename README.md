@@ -6,6 +6,7 @@ https://github.com/Gayane25/lesson009_Arrays_Methods/blob/master/forEach.js
 slice()
 splice()
 findIndex()
+https://github.com/Gayane25/lesson009_Arrays_Methods/blob/master/findIndex.js
 find()
 https://github.com/Gayane25/lesson009_Arrays_Methods/blob/master/findMethod.js
 
