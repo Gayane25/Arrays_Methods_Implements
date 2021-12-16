@@ -60,9 +60,9 @@ https://github.com/Gayane25/lesson009_Arrays_Methods/blob/master/6.FilterMethod.
 - slice() implement
   `.slice()`
 
-##### please click on [link](https://github.com/Gayane25/lesson009_Arrays_Methods/blob/master/mySlice.js)to see solution
+##### please click on [link](https://github.com/Gayane25/lesson009_Arrays_Methods/blob/master/mySlice.js) to see solution
 
 - splice() implement
   ` .splice()`
 
-##### please click on [link]https://github.com/Gayane25/lesson009_Arrays_Methods/blob/master/mySplice.js)to see solution
+##### please click on [link](https://github.com/Gayane25/lesson009_Arrays_Methods/blob/master/mySplice.js) to see solution
