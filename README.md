@@ -56,3 +56,9 @@ const arr = [1, 2, 'a', true, {}, undefined, 55, false, 'hi', null, 166, NaN];
 ```
 
 https://github.com/Gayane25/lesson009_Arrays_Methods/blob/master/6.FilterMethod.js
+
+```
+.slice()
+``
+##### please click on [link](https://github.com/Gayane25/lesson009_Arrays_Methods/blob/master/mySlice.js)to see solution
+```
